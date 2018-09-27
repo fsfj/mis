@@ -1,0 +1,14 @@
+/home/ff30/Documents/dev/mis/server/MIS.API/bin/Debug/netcoreapp2.1/MIS.API.deps.json
+/home/ff30/Documents/dev/mis/server/MIS.API/bin/Debug/netcoreapp2.1/MIS.API.runtimeconfig.json
+/home/ff30/Documents/dev/mis/server/MIS.API/bin/Debug/netcoreapp2.1/MIS.API.runtimeconfig.dev.json
+/home/ff30/Documents/dev/mis/server/MIS.API/bin/Debug/netcoreapp2.1/MIS.API.dll
+/home/ff30/Documents/dev/mis/server/MIS.API/bin/Debug/netcoreapp2.1/MIS.API.pdb
+/home/ff30/Documents/dev/mis/server/MIS.API/obj/Debug/netcoreapp2.1/MIS.API.csprojAssemblyReference.cache
+/home/ff30/Documents/dev/mis/server/MIS.API/obj/Debug/netcoreapp2.1/MIS.API.csproj.CoreCompileInputs.cache
+/home/ff30/Documents/dev/mis/server/MIS.API/obj/Debug/netcoreapp2.1/MIS.API.RazorAssemblyInfo.cache
+/home/ff30/Documents/dev/mis/server/MIS.API/obj/Debug/netcoreapp2.1/MIS.API.RazorAssemblyInfo.cs
+/home/ff30/Documents/dev/mis/server/MIS.API/obj/Debug/netcoreapp2.1/MIS.API.AssemblyInfoInputs.cache
+/home/ff30/Documents/dev/mis/server/MIS.API/obj/Debug/netcoreapp2.1/MIS.API.AssemblyInfo.cs
+/home/ff30/Documents/dev/mis/server/MIS.API/obj/Debug/netcoreapp2.1/MIS.API.RazorTargetAssemblyInfo.cache
+/home/ff30/Documents/dev/mis/server/MIS.API/obj/Debug/netcoreapp2.1/MIS.API.dll
+/home/ff30/Documents/dev/mis/server/MIS.API/obj/Debug/netcoreapp2.1/MIS.API.pdb
