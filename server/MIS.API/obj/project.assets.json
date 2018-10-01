@@ -11655,28 +11655,30 @@
     ]
   },
   "packageFolders": {
-    "/home/ff30/.nuget/packages/": {},
-    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\gr\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/ff30/Documents/dev/mis/server/MIS.API/MIS.API.csproj",
+      "projectUniqueName": "D:\\JR\\mis\\server\\MIS.API\\MIS.API.csproj",
       "projectName": "MIS.API",
-      "projectPath": "/home/ff30/Documents/dev/mis/server/MIS.API/MIS.API.csproj",
-      "packagesPath": "/home/ff30/.nuget/packages/",
-      "outputPath": "/home/ff30/Documents/dev/mis/server/MIS.API/obj/",
+      "projectPath": "D:\\JR\\mis\\server\\MIS.API\\MIS.API.csproj",
+      "packagesPath": "C:\\Users\\gr\\.nuget\\packages\\",
+      "outputPath": "D:\\JR\\mis\\server\\MIS.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/home/ff30/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\gr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
