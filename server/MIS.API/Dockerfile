@@ -13,8 +13,4 @@ RUN dotnet publish -c Release -o out
 FROM microsoft/dotnet:aspnetcore-runtime
 WORKDIR /app
 COPY --from=build-env /app/out .
-<<<<<<< HEAD
 ENTRYPOINT ["dotnet", "MIS.API.dll"]
-=======
-ENTRYPOINT ["dotnet", "aspnetapp.dll"]
->>>>>>> 2b374c13276d020bb9e6c81c0fb2006f1db9a65b
