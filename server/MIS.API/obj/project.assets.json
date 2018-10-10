@@ -11655,7 +11655,7 @@
     ]
   },
   "packageFolders": {
-    "/root/.nuget/packages/": {},
+    "/home/ff30/.nuget/packages/": {},
     "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
@@ -11664,14 +11664,14 @@
       "projectUniqueName": "/home/ff30/Documents/dev/mis/server/MIS.API/MIS.API.csproj",
       "projectName": "MIS.API",
       "projectPath": "/home/ff30/Documents/dev/mis/server/MIS.API/MIS.API.csproj",
-      "packagesPath": "/root/.nuget/packages/",
+      "packagesPath": "/home/ff30/.nuget/packages/",
       "outputPath": "/home/ff30/Documents/dev/mis/server/MIS.API/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/root/.nuget/NuGet/NuGet.Config"
+        "/home/ff30/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"

@@ -31,7 +31,7 @@ namespace MIS.API
         {
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
             services.AddAutoMapper();
-            services.AddEntityFrameworkMySql().AddDbContext<DataContext>();
+            services.AddDbContext<DataContext>();
 
             //Repositories
             services.AddTransient<IMembersRepository, MembersRepository>();
