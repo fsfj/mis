@@ -1,4 +1,6 @@
-export default interface {
+export default interface IMembers {
     firstName: string;
+    lastName: string;
+    middleName: string;
     
 }
