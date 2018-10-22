@@ -1,0 +1,15 @@
+version: "3.3"
+services:
+  mis-api:
+      build: ./server/MIS.API
+      ports:
+        - "8080:80"
+  mis-nuxt:
+      build: ./client/mis-nuxt
+      ports:
+        - "8081:80"
+  mis-angular:
+      build: ./client/mis-angular
+      ports:
+        - "8082:80"
+    

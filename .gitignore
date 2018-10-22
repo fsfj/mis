@@ -1,4 +1,5 @@
 client/mis-angular/node_modules
+client/mis-vue/node_modules
 client/mis-nuxt/node_modules
 client/mis-nuxt/.nuxt
 server/MIS.API/bin
